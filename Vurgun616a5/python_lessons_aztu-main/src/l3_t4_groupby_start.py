@@ -13,4 +13,4 @@ print("Sətir:", len(df))
 
 # TODO 3: iki sütunun ortası birlikdə: cols = ["rsrp_dbm", "throughput_mbps"]
 #         rsrp_dbm üzrə sıralayın, çap edin və
-#         data/processed/region_summary_pd.csv faylına yazın
+#         data/processed/region_summary_pd.csv faylına yazı
