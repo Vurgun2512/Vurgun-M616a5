@@ -6,7 +6,7 @@ Mövzu: pandas ilə verilənlərin oxunması, təmizlənməsi və çevrilməsi �
 əvvəlcə Python-un 10 «kərpici», sonra eyni kərpiclərlə pandas.
 
 ## Qurulma (bir dəfə)
-
+Chat-gpt
 ```bash
 python -m venv .venv
 .venv\Scripts\activate          # Windows (PowerShell)
